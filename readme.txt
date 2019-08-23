@@ -7,4 +7,8 @@ this is third update(try) by git and commit this to github.
 
 this is changed in branch:dev for the first time .
 
+<<<<<<< HEAD
 i don't know what happened. 
+=======
+i don't know what happened.
+>>>>>>> feature1
