@@ -1,4 +1,4 @@
 别担心，让我们慢慢来。
-这个bug被修复了。
+这个bug被修复了。这个bug被第二次修复。
 这是一个正常的命令行。
 i will make some useful change.
