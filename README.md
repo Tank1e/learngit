@@ -23,3 +23,6 @@ My learning note
 **加粗**
 
 对任意项目发起pull request
+
+:laughing:
+:hugs:
